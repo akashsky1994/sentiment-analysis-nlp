@@ -1,8 +1,8 @@
-# sentiment-analysis-nlp
-Sentiment Analysis on review from product pages
-
-
 # Sentiment Analysis With Python
+Sentiment Analysis on reviews from customer from product pages
+
+
+
 Run these python notebooks in a conda environment
 ```
 cd python-yelp-sentiment-analysis
